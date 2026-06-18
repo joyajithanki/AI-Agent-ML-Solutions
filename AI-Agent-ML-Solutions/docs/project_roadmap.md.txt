@@ -1,0 +1,16 @@
+# Project Roadmap
+
+## Week 1
+Project setup and planning
+
+## Week 2-3
+Dataset research and architecture design
+
+## Week 4-6
+Core development and sales analysis engine
+
+## Week 7-8
+AI query system and dashboard development
+
+## Week 9
+Testing, documentation, and final submission

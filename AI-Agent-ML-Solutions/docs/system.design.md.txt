@@ -1,0 +1,13 @@
+# System Design
+
+User Uploads Sales Dataset
+           ↓
+Data Processing (Pandas)
+           ↓
+Sales Analysis Engine
+           ↓
+AI Insight Generator
+           ↓
+Query Answering Module
+           ↓
+Dashboard & Reports
